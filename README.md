@@ -14,9 +14,9 @@ For C, the learning curve involves grasping **low-level programming constructs, 
 Linux commands will introduce you to the **Unix-like environment, teaching you file management, process control, and system administration**.
 
 
-  _------------
-| **LIGHT DOSE** | :-
-  -------------
+
+ **LIGHT DOSE**  :-
+  --------------
 
   
 THE **LINUX COMMANDS** I LEARNT:- 
@@ -31,8 +31,8 @@ I gained some knowledge on topics like header files, functions,snippet idea, dif
 
 
 
- _------------------------
-| **STRONG DOSE OVERVIEW** | :-
+ 
+ **STRONG DOSE OVERVIEW**  :-
  ------------------------
 
 
@@ -59,8 +59,8 @@ The pursuit of finding four consecutive integers with distinct prime factors is 
 
 
 
- _------------------------
-| **MEDIUM DOSE OVERVIEW** | :-
+ 
+ **MEDIUM DOSE OVERVIEW**  :-
  -------------------------
 
 
