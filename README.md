@@ -14,6 +14,21 @@ For C, the learning curve involves grasping **low-level programming constructs, 
 Linux commands will introduce you to the **Unix-like environment, teaching you file management, process control, and system administration**.
 
 
+ _______________________________________________________________
+|                |                      |                        |
+|    LIGHT DOSE  | *  UBUNTU COMMANDS   |  SHELL SCRIPTING       |
+|________________|______________________|_______________________ |
+|                |                      |                        |
+|   MEDIUM DOSE  | * CREATE A VARIABL   | * HEIRARCHY            |
+| ______________________________________________________________ | 
+|                |                      |                        |
+|   STRONG DOSE  |*PLAYING WITH NUMBERS |  PLAYING WITH IMAGES   |
+|_______________________________________________________________ |
+
+
+
+
+
 
  **LIGHT DOSE**  :-
   --------------
