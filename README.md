@@ -21,7 +21,7 @@ Linux commands will introduce you to the **Unix-like environment, teaching you f
   
 |   STRONG DOSE  |*PLAYING WITH NUMBERS |  PLAYING WITH IMAGES   |
 
-
+-------------------------------------------------------------------
 
 
 
