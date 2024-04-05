@@ -13,7 +13,7 @@ In C++, key areas of focus include understanding **object-oriented programming, 
 For C, the learning curve involves grasping **low-level programming constructs, pointers, memory management, and the manipulation of strings and arrays**. 
 Linux commands will introduce you to the **Unix-like environment, teaching you file management, process control, and system administration**.
 
-
+------------------------------------------------------------------
 
 |    LIGHT DOSE  | *  UBUNTU COMMANDS   |  SHELL SCRIPTING       |
 
